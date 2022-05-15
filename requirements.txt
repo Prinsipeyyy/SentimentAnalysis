@@ -5,3 +5,8 @@ matplotlib
 scikit-learn
 plotly
 seaborn
+tweepy
+nltk
+wordcloud
+pickle
+base64
