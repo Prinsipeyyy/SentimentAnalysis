@@ -26,6 +26,9 @@ from sklearn import metrics
 from wordcloud import WordCloud
 import base64
 import pickle
+
+nltk.download(‘stopwords’)
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 sns.set()
 
